@@ -1,1 +1,1 @@
-# pok
+# pokedex-mania
